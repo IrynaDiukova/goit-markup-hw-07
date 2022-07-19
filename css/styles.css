@@ -113,15 +113,15 @@ textarea {
     color: var(--accent-color);
 }
 
-.header-container,
-.header-nav,
+.header__container,
+.header__nav,
 .header-list {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.header-logo {
+.header__logo {
     margin-right: 93px;
 }
 
@@ -132,7 +132,7 @@ textarea {
 .header-list-contact {
     margin-left: auto;
 }
-.header-logo,
+.header__logo,
 .footer-logo {
     font-family: 'Raleway';
     font-weight: 700;
@@ -147,7 +147,7 @@ textarea {
     margin-bottom: 20px;
 }
 
-.header-logo1 {
+.header__logo1 {
     color: var(--black-txt-cl);
 }
 .footer-logo1 {
